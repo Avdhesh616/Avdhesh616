@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avdhesh616
+- 👋 Hi, I’m Avdhesh
 - 👀 I’m interested in new technologies..
 - 🌱 I’m currently learning computer networks and cyber security
 - 💞️ I’m looking to collaborate on network projects
