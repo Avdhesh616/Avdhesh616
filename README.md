@@ -1,11 +1,17 @@
-- 👋 Hi, I’m Avdhesh
-- 👀 I’m interested in new technologies..
-- 🌱 I’m currently learning computer networks and cyber security
-- 💞️ I’m looking to collaborate on network projects
-- � my mail Id - avdhesh.ku616@gmail.com
-- 
+### Hi there, I'm Avdhesh! 👋
 
-<!---
-Avdhesh616/Avdhesh616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+**👀 Interests:**  
+I’m fascinated by new technologies and enjoy exploring their potential.
+
+**🌱 Current Work:**  
+I am currently engaged in data preprocessing using SQL and PySpark. I have extensive knowledge of Databricks, Microsoft Fabric, and Azure Synapse Analytics.
+
+**💞️ Collaboration:**  
+I am eager to collaborate on network projects.
+
+**📫 Contact:**  
+You can reach me via email at [avdhesh.ku616@gmail.com](mailto:avdhesh.ku616@gmail.com).
+
+---
